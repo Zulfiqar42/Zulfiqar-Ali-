@@ -1,2 +1,92 @@
 *.agdai
 MAlonzo/**
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kinetex Institute Daharki Campus</title>
+<style>
+    body {
+        font-family: "Times New Roman", serif;
+        margin: 50px auto;
+        width: 70%;
+        border: 1px solid #ccc;
+        padding: 40px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        line-height: 1.6;
+    }
+    h2, h3, h4, p {
+        margin: 5px 0;
+    }
+    .center { text-align: center; }
+    .right { text-align: right; }
+    .orange { color: #d27c2c; }
+    .blue { color: #0056b3; }
+    .verified {
+        background-color: #e8f8ef;
+        border: 1px solid #00a859;
+        color: #008000;
+        display: inline-block;
+        padding: 5px 15px;
+        border-radius: 5px;
+        font-weight: bold;
+    }
+    .section {
+        margin-top: 20px;
+    }
+    .footer {
+        font-size: 13px;
+        text-align: center;
+        margin-top: 30px;
+        color: #555;
+    }
+</style>
+</head>
+<body>
+
+<div class="center">
+    <h3>DAHARKI CAMPUS</h3>
+    <h2>Kinetex Institute Daharki Campus</h2>
+    <p>Registered with <span class="orange">Sindh Technical Education and Vocational Training Authority</span><br>
+    Affiliated with <span class="orange">Trade Testing Board Sindh</span></p>
+
+    <h3 class="orange">CERTIFICATE VERIFICATION REPORT</h3>
+    <div class="verified">✔ Verified Record</div>
+</div>
+
+<div class="Section">
+    <p><b>Certificate ID:</b> KIDC/DIT/1976/25</p>
+    <p><b>Roll No:</b> 1976</p>
+</div>
+
+<div class="section">
+    <p>
+        This is to certify that <b>Gotam</b>, Son/Daughter of <b>Ameetab Lohana</b> bearing the surname <b>Lohana</b>,
+        Date of Birth <b>16-09-2005</b>, has successfully passed in <b>Diploma in Information Technology</b>.
+    </p>
+    <p>
+        The candidate appeared in the <b>Annual Examination 2025</b> conducted by this Institute in the month of
+        <b>September</b> as a <b>Regular Candidate</b>.
+    </p>
+    <p>
+        He/She secured <b>870 marks</b> out of <b>1000</b>, obtaining <b>A Division/Grade in I.T.</b>
+    </p>
+</div>
+
+<div class="right section">
+    <p><b>Date Issued:</b> 06-10-2025</p>
+    <p><b>Verified by:</b> Kinetex Institute Daharki Campus</p>
+</div>
+
+<div class="footer">
+    <p><b>Kinetex Institute Daharki Campus</b><br>
+    KineTEX Institute Main GT Road Opposite National Bank Daharki<br>
+    Contact: +92 302 2985000</p>
+
+    <p>This verification is issued electronically and can be verified by scanning the official QR code.<br>
+    Unauthorized reproduction or tampering is strictly prohibited.</p>
+</div>
+
+</body>
+</html>
